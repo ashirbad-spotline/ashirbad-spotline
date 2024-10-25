@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 Tools and Technologies 👨‍💻:
 
-Languages: Java, Python, JavaScript, C/C++/, Ruby on rails
+Languages: Java, Python, JavaScript, C/C++, Ruby on rails
 
 Frontend: HTML5, CSS3, React
 
